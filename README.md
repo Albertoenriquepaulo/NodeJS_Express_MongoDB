@@ -1,7 +1,7 @@
 # Article Knowledgebase Application
 
 This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
-
+https://www.youtube.com/watch?v=lAUncPg_FVw
 ## Technologies
 * Node.js
 * Express
